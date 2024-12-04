@@ -1,5 +1,5 @@
 create table MOCK_DATA (
-	event_id VARCHAR(40),
+	event_id VARCHAR(45),
 	title TEXT,
 	description TEXT,
 	status VARCHAR(9),
